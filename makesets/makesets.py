@@ -316,17 +316,22 @@ def main():
 
     print("=== print set ===")
 
-    for tune_set in set_list:
-        sequence_id = 0
-        tune_list = tune_set.tune_list
-        for tune_spec in tune_list:
-            # print("tune_spec type: %s" % type(tune_spec))
-            print("#%s[%s, %s]" % (tune_spec.tune_id, tune_spec.tune_name, tune_spec.from_album), end='')
-            sequence_id += 1
-            if sequence_id < len(tune_list):
-                print("/", end='')
-            else:
-                print(" from_album: %s" % tune_set.from_album)
+    with open("data/sets_results.txt", 'w') as f:
+        for tune_set in set_list:
+            sequence_id = 0
+            tune_list = tune_set.tune_list
+            for tune_spec in tune_list:
+                print("#%s[%s, %s]" % (tune_spec.tune_id, tune_spec.tune_name, tune_spec.from_album), end='')
+                f.write("#%s[%s, %s]" % (tune_spec.tune_id, tune_spec.tune_name, tune_spec.from_album))
+                sequence_id += 1
+                if sequence_id < len(tune_list):
+                    print("/", end='')
+                    f.write("/")
+                else:
+                    print("")
+                    f.write("\n")
+                    # print(" from_album: %s" % tune_set.from_album)
+                    # f.write(" from_album: %s\n" % tune_set.from_album)
 
     with open("data/sets_results.html", 'w') as f:
         f.write("<html>\n")
@@ -335,7 +340,6 @@ def main():
             tune_list = tune_set.tune_list
             f.write("<p>")
             for tune_spec in tune_list:
-                # print("tune_spec type: %s" % type(tune_spec))
                 # print("#%s[%s, %s]" % (tune_spec.tune_id, tune_spec.tune_name, tune_spec.from_album), end='')
                 if tune_spec.from_album is None:
                     f.write("<a href=\"https://www.irishtune.info/tune/%s/\">%s</a>" % (tune_spec.tune_id,
