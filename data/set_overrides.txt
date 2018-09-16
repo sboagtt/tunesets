@@ -20,3 +20,6 @@
 #5071[Bantry Lasses, None]/#2714[Doonagore, JsMcD]/#1778[Sliabh Bloom Reel, None]
 #2065[Whistling Postman, JKn 3]/#2670[Farewell to Old Decency, None]
 #2052[O'Rourke's, TJC]/#446[Wild Irishman, KB Pt, GL20, GL1]
+#206[Boys of Ballisodare, MC]/#846[Honeymoon, None]
+#6114[Glen Cottage Polka, None]/#736[Glen Cottage, DRuss, JLavelle]/#4313[New Roundabout, None]
+#308[Chattering Magpie, RBPOL 3]/#641[Flax in Bloom, RBPOL 2]
