@@ -4,7 +4,7 @@
 #312[Chief O'Neill's Favorite]/#1589[Plains of Boyle]
 #1643[Madam If You Please]/#1842[Stranger]
 #3559[Munster Grass]/#1787[Smoky Chimney]
-#1435[Raven through the Bog]/#800[Hangman's Rope]
+#800[Hangman's Rope]/#1435[Raven through the Bog]/#569[Echo, None]
 #286[Castle Jig]/#2296[Nightingale]
 #7130[Woods of Caolrua]/#7131[Karen's Delight]
 #523[Doctor O'Neill]/#129[Battering Ram]/#2078[Winnie Hayes's Jig]
