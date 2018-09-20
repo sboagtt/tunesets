@@ -154,7 +154,8 @@ def process_goes_into(set_list: List[TuneSet],
                 # print("moved to be a follow tune: %d to %d, len is now %d" % (
                 #     set_id_top, set_id2, len(set_list[set_id2])))
                 set_id_top = find_index_for_single_tune_in_set_list(set_list, goes_into_id)
-                set_list[set_id_top] = None
+                if not set_list[set_id_top].locked:
+                	set_list[set_id_top] = None
                 break
 
 
