@@ -44,6 +44,7 @@ Hpipe	Harp & Shamrock	AABB	G Major	|edBc dBGB|AGEF GABd|		4509
 Hpipe	Madam If You Please	AABB	G Major	|DGGD GGFD|GBde fd(3efg|		1643
 Hpipe	Munster Grass	AABB	G Major	|G,B,DG ~B2cB|cAFA G2E/F/G|		3559
 Hpipe	Off to California	AABB	G Major	|(3GGFGA AGEF|GABd ez(3def|		1445
+Hpipe	Murphy's Hornpipe	AABB	G Major	|(3GGFGA AGEF|GABd ez(3def|		1377
 Hpipe	Pretty Maggie Morrissey	AABB	G Major	|dcBd cBAF|GBAF GABc|		1611
 Hpipe	Raven through the Bog	AABB	G Major	|GABG AB{c}A|defa gfdc|		1435
 Hpipe	Stack of Barley	AABB	G Major	|efed BcdB|A^GAG AcBA|		1823
@@ -187,6 +188,7 @@ JigSl	A Fig for a Kiss		E Dorian	|G2B E2B BAG|F2A D2A AGF|		3497
 JigSl	Butterfly	ABC	E Dorian	|B2E GGE F3|B2E GGE FED|		254
 JigSl	Kid on the Mountain	ABCDE	E Minor	|~E3 ~F3 G2F|~E3 BcA BGD|		1023
 JigSl	Little Fair Cannavans	AB	G Major	|BGG AGE GDD|EGD DEG ~A3|		1136
+JigD	Munster Jig	AABB	G Major	|GBd cAF|GGe dBG|		801
 JigSl	Swaggering Jig		G Major	|BGG AGE DEG|BGG GFG A2c|		1851
 March	Brian Boru's March	AABBCC	A Dorian	|cAA Aed|cAA Adc|		223
 March	Mairi's Wedding		D Mixolydian	|D>E DE|GA B2|		1202
