@@ -430,6 +430,7 @@ Reel	Traveller	AABB	G Major	|G2BG dGBG|ABcd dcBA|		1964
 Reel	Trip to Birmingham	AABB	G Major	|DGGG GzBd|eged edBA|		1566
 Reel	Woman of the House	AABB	G Major	|[D4B4] ~B2BA|GABd eBdB|		2082
 Reel	Morning Mist	AABB	G Mixolydian	|d2BG dG~G2|dGBG DGBd|		1341
+Reel	Master McDermott's	AABB	G Mixolydian	|d2BG dG~G2|dGBG DGBd|		1233
 SetD	Blackbird		G Major	|BGBd cABG|~A3G ABcA|		164
 SetD	Drunken Gauger	AABABA	G Major	|GAB cBA|BAG AGE|		547
 SetD	St. Patrick's Day		G Major	|GAG GBd|gfe dBG|		1821

@@ -45,3 +45,5 @@
 #1445[Off to California, GD]/#1140[Liverpool Hornpipe, IDM 2, Hmdgr]/#1377[Murphy's Hornpipe, IDM 2]
 #641[Flax in Bloom, me]/#1293[Milliner's Daughter, Chi]/#1454[Old Bush, PMcG 1]
 #2806[Lilies in the Field, None]/#642[Floating Crowbar, ADB]
+#1342[Morning Star, OTPR]/#3116[Love at the Endings, JCnly 3]
+#170[Maid at the Well, HOP]/#1472[Hag's Purse, None]/#160[Black Rogue, EGrs 1]
