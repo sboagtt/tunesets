@@ -43,8 +43,8 @@ Hpipe	Hangman's Rope		G Major	|G2BG DGBd|g2fg d2de|		800
 Hpipe	Harp & Shamrock	AABB	G Major	|edBc dBGB|AGEF GABd|		4509
 Hpipe	Madam If You Please	AABB	G Major	|DGGD GGFD|GBde fd(3efg|		1643
 Hpipe	Munster Grass	AABB	G Major	|G,B,DG ~B2cB|cAFA G2E/F/G|		3559
+Hpipe	Murphy's Hornpipe	AABB	G Major	|GABG EFGE|ABcA FGAF|		1377
 Hpipe	Off to California	AABB	G Major	|(3GGFGA AGEF|GABd ez(3def|		1445
-Hpipe	Murphy's Hornpipe	AABB	G Major	|(3GGFGA AGEF|GABd ez(3def|		1377
 Hpipe	Pretty Maggie Morrissey	AABB	G Major	|dcBd cBAF|GBAF GABc|		1611
 Hpipe	Raven through the Bog	AABB	G Major	|GABG AB{c}A|defa gfdc|		1435
 Hpipe	Stack of Barley	AABB	G Major	|efed BcdB|A^GAG AcBA|		1823
@@ -69,6 +69,7 @@ JigD	Ship in Full Sail	AABBCC	A Major	|EAA cAA|eAA cee|		1765
 JigD	Langstern Pony	AABBCCDD	A Mixolydian	|fed cAA|eAA cAA|		1089
 JigD	Hardiman's Fancy	AABB	B Minor	|BcB BAF|AFE EFE|		804
 JigD	An Sean Duine		D Major	|DEF AFE|DEF F2E|		70
+JigD	An Seanduine Dóite	AABB	D Major	|D2B AFD|F2F F2E|		250
 JigD	Bank of Turf	AABB	D Major	|A3 DFA|BAF DFA|		115
 JigD	Behind the Haystack	AABBCC	D Major	|d2e fdB|d2e fdB|		137
 JigD	Black Rogue	AABB	D Major	|cAA BGG|cAA A2d|		160
@@ -105,6 +106,7 @@ JigD	Sean McGlynn's	AABB	D Major	|AFD ECA,|DFA ddA|		1745
 JigD	Sport	AABBCC	D Major	|AdF A2A|GBE GFG|		4261
 JigD	Strike the Gay Harp	AABBCC	D Major	|d2B cAA|dAF FED|		1845
 JigD	Tar Road to Sligo	AABB	D Major	|fdB Bcd|ecA BAG|		346
+JigD	Tatter Jack Walsh	AABB	D Major	|fef ded|cAB cde|		1880
 JigD	Tobin's Favorite	AABB	D Major	|DFA dcd|ecA efg|		1917
 JigD	Tom Connor's Jig	AABB	D Major	|ABA A2D|FAd f3|		1922
 JigD	Tripping Up the Stairs	AABB	D Major	|FAA GBB|FAd fed|		1976
@@ -170,6 +172,7 @@ JigD	Luckpenny	AABBCC	G Major	|BGG AGE|DGG FGA|		1167
 JigD	Maid at the Well	AABB	G Major	|GDD EDE|GAB c2e|		170
 JigD	Maid on the Green	AABB	G Major	|~g3 e2d|Bde dBA|		1189
 JigD	Maura McGlynn's	AABB	G Major	|d2c BAG|(3EFGE CEG|		3275
+JigD	Munster Jig	AABB	G Major	|~G3 AGA|Bde gdB|		801
 JigD	North Clare	AABB	G Major	|~B3 BAG|F2d d^cd|		4256
 JigD	O'Sullivan's March	AABB	G Major	|GBA ABd|edB A2B|		1486
 JigD	Out on the Ocean	AABB	G Major	|B2B BAG|BdB A2B|		1489
@@ -188,7 +191,6 @@ JigSl	A Fig for a Kiss		E Dorian	|G2B E2B BAG|F2A D2A AGF|		3497
 JigSl	Butterfly	ABC	E Dorian	|B2E GGE F3|B2E GGE FED|		254
 JigSl	Kid on the Mountain	ABCDE	E Minor	|~E3 ~F3 G2F|~E3 BcA BGD|		1023
 JigSl	Little Fair Cannavans	AB	G Major	|BGG AGE GDD|EGD DEG ~A3|		1136
-JigD	Munster Jig	AABB	G Major	|GBd cAF|GGe dBG|		801
 JigSl	Swaggering Jig		G Major	|BGG AGE DEG|BGG GFG A2c|		1851
 March	Brian Boru's March	AABBCC	A Dorian	|cAA Aed|cAA Adc|		223
 March	Mairi's Wedding		D Mixolydian	|D>E DE|GA B2|		1202
@@ -290,6 +292,7 @@ Reel	Love at the Endings	AABB	D Major	|DEFA BddB|AF~F2 AFEF|		3116
 Reel	Lucy Campbell	ABCD	D Major	|AD{F}ED D2dB|ADFA BE~E2|		1168
 Reel	Maid behind the Bar	AABB	D Major	|FAAG FDD2|FAAF A2de|		1184
 Reel	Martin Wynne's	AABB	D Major	|AF~F2 GE~E2|FADF EB,B,2|		2107
+Reel	Master McDermott's	AABB	D Major	|DF~F2 DFAB|dffe dBBd|		1233
 Reel	Merry Blacksmith	AABB	D Major	|d3A BAFA|~A2FA BAFA|		1272
 Reel	Michael Creamer's	AABB	D Major	|A2dB AFDz|AFAB ~f3z|		3440
 Reel	Miss Monaghan	AABB	D Major	|D2ED FAAF|G2BG FGAc|		1311
@@ -430,7 +433,6 @@ Reel	Traveller	AABB	G Major	|G2BG dGBG|ABcd dcBA|		1964
 Reel	Trip to Birmingham	AABB	G Major	|DGGG GzBd|eged edBA|		1566
 Reel	Woman of the House	AABB	G Major	|[D4B4] ~B2BA|GABd eBdB|		2082
 Reel	Morning Mist	AABB	G Mixolydian	|d2BG dG~G2|dGBG DGBd|		1341
-Reel	Master McDermott's	AABB	G Mixolydian	|d2BG dG~G2|dGBG DGBd|		1233
 SetD	Blackbird		G Major	|BGBd cABG|~A3G ABcA|		164
 SetD	Drunken Gauger	AABABA	G Major	|GAB cBA|BAG AGE|		547
 SetD	St. Patrick's Day		G Major	|GAG GBd|gfe dBG|		1821
